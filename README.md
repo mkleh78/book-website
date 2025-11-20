@@ -1,2 +1,2 @@
-# book-website
-English version
+# buchwebseite
+Optionen strategisch nutzen
